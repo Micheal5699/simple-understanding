@@ -6,7 +6,7 @@ or What you know how to do best.
  Try learning natural visualization, which is 
 anything you can create, make use of and that 
 brings positive outcome that you yourself can
-make use of it also, the society. After the 
+make use of it, also, the society. After the 
 society have make use of it and came out good,
 with damage free and has surely provides income
 for you and the society. Now you have a big 

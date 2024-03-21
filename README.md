@@ -14,3 +14,6 @@ piority of what you know how to do easily.
 
 Selenium Data Drive framework with Maven
 https://github.com/netowsolutionsltd/I-Invest-Automation.git
+
+var get = JSON.parse(responseBody);
+pm.collectionVariables.set("token", get.data[0].beneficiaryId);

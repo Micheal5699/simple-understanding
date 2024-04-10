@@ -58,5 +58,8 @@ describe("Given I am on the login page", function () {
       cy.wait(4000)
       cy.contains('Account').should("be.visible")
     })
-
 })
+
+Link on how to generate a selector
+
+https://www.youtube.com/watch?v=rF577DJH7E8

@@ -62,4 +62,5 @@ describe("Given I am on the login page", function () {
 
 Link on how to generate a selector
 
-https://www.youtube.com/watch?v=rF577DJH7E8
+https://www.youtube.com/watch?v=cSa4VAHawMg&t=629s
+

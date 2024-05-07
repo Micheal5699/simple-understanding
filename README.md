@@ -5,12 +5,12 @@ To understand is easy as you understand A,B,C
 or What you know how to do best.
  Try learning natural visualization, which is 
 anything you can create, make use of and that 
-brings positive outcome that you yourself can
-make use of it, also, the society. After the 
-society have make use of it and came out good,
-with damage free and has surely provides income
+brings positive outcome that you can
+use, and also the society. After the 
+society have made use of it and came out good,
+with damage free and has surely provided income
 for you and the society. Now you have a big 
-piority of what you know how to do easily.
+priority of what you can easily do.
 
 Selenium Data Drive framework with Maven
 https://github.com/netowsolutionsltd/I-Invest-Automation.git
